@@ -1,0 +1,4 @@
+﻿  App.cpp
+c:\users\vjgen\onedrive\documents\vs_projects\snake\2player_snake\snakes\snakes\app.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\snake\2player_snake\snakes\snakes\app.cpp(364): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Snakes.vcxproj -> C:\Users\vjgen\OneDrive\Documents\VS_Projects\Snake\2Player_Snake\Snakes\Debug\Snakes.exe
